@@ -9,6 +9,9 @@ Add a customizable login/logout link to the primary menu in your WordPress site.
 - Add a login/logout link to the primary menu.
 - Customize login/logout text, font attributes, text color, and animation effect.
 
+  ![image](https://github.com/Rafkev/links/assets/40280970/10fc4f40-ca92-4df7-b603-c692e1a55ffe)
+
+
 ## Installation
 
 1. Download the plugin ZIP file from the [releases page](https://github.com/rafkev/links.
