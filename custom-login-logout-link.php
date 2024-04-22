@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Login/Logout Link
-Description: Add login/logout link to primary menu with customizable text and font attributes.
+Description: Add login/logout link to primary menu with customizable text and font attributes. 
 Version: 1.0
 Author: Your Name
 */
