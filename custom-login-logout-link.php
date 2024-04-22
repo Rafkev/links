@@ -21,7 +21,7 @@ function custom_login_logout_register_settings() {
     register_setting('custom_login_logout_settings_group', 'custom_login_text');
     register_setting('custom_login_logout_settings_group', 'custom_logout_text');
     register_setting('custom_login_logout_settings_group', 'custom_font_family');
-    register_setting('custom_login_logout_settings_group', 'custom_font_size');
+    register_setting('custom_login_logout_settings_group', 'custom_font_size'); 
 }
 add_action('admin_init', 'custom_login_logout_register_settings');
 
