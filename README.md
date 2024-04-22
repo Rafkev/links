@@ -31,7 +31,7 @@ Add a customizable login/logout link to the primary menu in your WordPress site.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit issues and pull requests.
+Contributions are welcome! Please feel free to submit issues and pull requests. 
 
 ## License
 
