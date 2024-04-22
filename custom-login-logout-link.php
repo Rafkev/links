@@ -50,7 +50,7 @@ function custom_login_logout_settings_page() {
                     <td><input type="text" name="custom_font_size" value="<?php echo get_option('custom_font_size'); ?>" /></td>
                 </tr>
             </table>
-            <?php submit_button(); ?>
+            <?php submit_button(); ?> 
         </form>
     </div>
 <?php
