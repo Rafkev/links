@@ -13,7 +13,7 @@ function custom_login_logout_settings_menu() {
 add_action('admin_menu', 'custom_login_logout_settings_menu');
 
 // Register plugin settings
-function custom_login_logout_register_settings() {
+function custom_login_logout_register_settings() { 
     add_option('custom_login_text', 'Login');
     add_option('custom_logout_text', 'Logout');
     add_option('custom_font_family', 'Arial');
